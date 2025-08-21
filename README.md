@@ -143,3 +143,7 @@ Aqui estão algumas sugestões de melhorias e funcionalidades futuras para o pro
 ---
 
 Sinta-se à vontade para contribuir com o projeto ou usá-lo como base para seus estudos!
+
+### Teste de commit
+
+##### Como copiar um arquivo de outro branch com git checkout
